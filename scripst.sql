@@ -301,4 +301,4 @@ END;
 CREATE OR REPLACE DIRECTORY LEGO_ACT AS 'D:\Asignaciones\Listas\LEGO_AyM PMO22297\Entrega\Actualización Número de Documento Externo'
 /
 GRANT READ, WRITE ON DIRECTORY LEGO_ACT TO JFVARGAS
-/
+/ 
