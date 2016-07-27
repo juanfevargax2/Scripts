@@ -32,3 +32,4 @@ sed '8q;d' del_ds.sh #Extrae linea 8 del archivo
 date +"%d%m%Y-%H:%M:%S"
 date +"%y%m%d"
 npm config set proxy http://172.25.25.9:8080
+fgrep -v -f b.txt a.txt > c.txt # What is in a and not in b
